@@ -15,14 +15,16 @@ java -jar fptree.jar <support_threshold> < inputfile # read from stdin
 each item should be Interger type
 
 ### pattern
-
+```
 <set1>
 <set2>
 ...
 <setn>
+```
 
 ### example
 
+```
 1 2 5
 2 4
 2 3
@@ -35,6 +37,7 @@ each item should be Interger type
 8
 9
 10
+```
 
 ## Output
 
